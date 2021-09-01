@@ -1,2 +1,2 @@
-# preojeto-test
+# projeto-test
 Projeto de teste de uso e deploy de projetos streamlit
