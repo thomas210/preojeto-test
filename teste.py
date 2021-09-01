@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+from sklearn.ensemble import GradientBoostingClassifier
 
 st.set_page_config(page_title="Teste")
 #page_icon="images/val_temp.png"
